@@ -1,7 +1,7 @@
 # UnityObjectPooler
 ## Simple object pool for Unity
 
-This is a quick and lightweight solution that you can just immediately throw objects at to be pooled. 
+This is a quick and lightweight solution that you can just immediately throw objects at to be pooled.  (.Net 4.6+)
 
  - No need to pre-define pools (although you can if you want).
  - Calls Spawn/Despawn interface
