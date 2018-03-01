@@ -3,7 +3,9 @@
 
 This is a quick and lightweight solution that you can just immediately throw objects at to be pooled. 
 
- - There is no need to pre-define pools (although you can if you want); pools will be created automatically and re-used where possible.
+ - No need to pre-define pools (although you can if you want).
+ - Calls Spawn/Despawn interface
+ - Neatly organized in project hierarchy
 
 ###### Instantiating objects (taking them from the pool):
 ```
